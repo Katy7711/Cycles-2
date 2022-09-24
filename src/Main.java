@@ -83,7 +83,7 @@ public class Main {
             x = x + (x / 100 * 7);
             if (w % 6 == 0) {
                 System.out.println("сумма накоплений за месяц " + w + " составляет " + x + " рублей");
-            }
+            } }
 
 
 
@@ -121,7 +121,7 @@ public class Main {
 
 
 
-                
+
 
                     int h = 2;
                     for (int f = 1; f <= 10; f++) {
@@ -131,7 +131,6 @@ public class Main {
                     }
 
                 }
-            }
 
 
 
